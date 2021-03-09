@@ -13,7 +13,6 @@ My interests lies in the domain of Data Science and Machine Learning.
 - Reading books 📖                                
 - Photography 📷
 - Travelling 🏝️
-- 
 
 ## Favourite Sports  
 - Football ⚽
