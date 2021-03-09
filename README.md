@@ -21,7 +21,7 @@
 - Basketball 🏀
 
 ## Aim
-My aim is to become a Data Scientist and work in the domain of NLP and FinTech.  
+- My aim is to become a Data Scientist and work in the domain of NLP and FinTech.  
 
 ## Favourite Authors
 - Jay Shetty
