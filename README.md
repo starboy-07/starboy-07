@@ -9,11 +9,15 @@ I'm currently pursuing my B.Tech from CSE branch maintaining a CGPA of 8.15/10.
 ## Interests
 My interests lies in the domain of Data Science and Machine Learning.                      
 
-## Hobbies
-- Football
-- Reading books
-- Photography
-- Travelling
+## Hobbies                 
+- Reading books 📖                                
+- Photography 📷
+- Travelling 🏝️
+- 
+
+## Favourite Sports  
+- Football ⚽
+- Basketball 🏀
 
 ## Aim
 My aim is to become a Data Scientist and work in the domain of NLP and FinTech.  
