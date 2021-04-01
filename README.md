@@ -9,7 +9,7 @@
 - I'm currently pursuing my B.Tech from CSE branch maintaining a CGPA of 8.36/10. 
 
 ## Interests
-- My interests lies in the domain of Data Science and Machine Learning.                      
+- My interests lies in the domain of Data Science, Machine Learning and its application in Business Analysis.                      
 
 ## Hobbies                 
 - Reading books 📖                                
