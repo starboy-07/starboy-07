@@ -6,7 +6,7 @@
 - Hi I am Arpit, known for being a good listener and a keen learner.
 
 ## Education
-- I'm currently pursuing my B.Tech from CSE branch maintaining a CGPA of 8.36/10. 
+- I'm currently pursuing my B.Tech from CSE branch maintaining a CGPA of 8.53/10. 
 
 ## Interests
 - My interests lies in the domain of Data Science, Machine Learning and its application in Business Analysis.                      
